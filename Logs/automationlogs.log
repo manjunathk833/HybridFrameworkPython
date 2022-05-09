@@ -1,3 +1,6 @@
 INFO     root:test_login.py:16 ******************** Test_001_Homepage ****************
-ININFO     root:test_login.py:41 ******************** Test_002_Verifying Title after login ****************
+INFO     root:test_login.py:20 ******************** Test_001_Verifying title ****************
+INFO     root:test_login.py:25 ******************** Test_001_Home Page Title Test Passed ****************
+INFO     root:test_login.py:33 ******************** Test_002_Login Test ****************
+INFO     root:test_login.py:41 ******************** Test_002_Verifying Title after login ****************
 ERROR    root:test_login.py:44 ******************** Test_002_Login Test Passed****************

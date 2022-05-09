@@ -52,3 +52,5 @@ Inorder to run tests in parallel instances of browsers install pytest-xdist and 
 pytest -v -s -n=2 .\testCases\test_login.py
 where n is the number of instances required
     
+Step 8: Generate the report
+    pytest -v -s --html=Reports\report.html .\testCases\test_login.py
