@@ -1,0 +1,31 @@
+1652090421124	geckodriver	INFO	Listening on 127.0.0.1:49576
+1652090424202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49577" "-no-remote" "-profile" "C:\\Users\\manju\\AppData\\Local\\Temp\\rust_mozprofileHbcVCk"
+1652090425092	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manju\\AppData\\Local\\Temp\\rust_mozprofileHbcVCk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49577/devtools/browser/d85636b9-9fa5-409e-9272-194d840a6d23
+1652090427684	Marionette	INFO	Listening on port 49583
+1652090427930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652090429840	Marionette	INFO	Stopped listening on port 49583
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652090430655	geckodriver	INFO	Listening on 127.0.0.1:49622
+1652090433729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49623" "-no-remote" "-profile" "C:\\Users\\manju\\AppData\\Local\\Temp\\rust_mozprofilehWSYQb"
+1652090434225	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\manju\\AppData\\Local\\Temp\\rust_mozprofilehWSYQb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49623/devtools/browser/a4cb2cae-d332-4cd3-a029-78f389069504
+1652090436549	Marionette	INFO	Listening on port 49629
+1652090436900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652090441475	Marionette	INFO	Stopped listening on port 49629
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
