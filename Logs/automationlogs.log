@@ -1,6 +1,3 @@
-INFO     root:test_login.py:16 ******************** Test_001_Homepage ****************
-INFO     root:test_login.py:20 ******************** Test_001_Verifying title ****************
-INFO     root:test_login.py:25 ******************** Test_001_Home Page Title Test Passed ****************
-INFO     root:test_login.py:33 ******************** Test_002_Login Test ****************
-INFO     root:test_login.py:41 ******************** Test_002_Verifying Title after login ****************
-ERROR    root:test_login.py:44 ******************** Test_002_Login Test Passed****************
+INFO     root:test_login_ddt.py:16 ******* Starting Test_002_DDT_Login Test **********
+INFO     root:test_login_ddt.py:17 ******* Starting Login DDT Test **********
+INFO     root:test_login_ddt.py:42 **** passed ****

@@ -54,3 +54,11 @@ where n is the number of instances required
     
 Step 8: Generate the report
     pytest -v -s --html=Reports\report.html .\testCases\test_login.py
+
+Step 9: Automating Data Driven Test Case
+    Prepare the test data in the excel sheet
+    Create ExcelUtils.py utility class under utlilities package
+    create LoginDataDrivenTest under testCases
+    Run the test case
+
+Step 10: Adding new testcases
