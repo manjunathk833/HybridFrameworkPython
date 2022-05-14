@@ -27,8 +27,8 @@ Step 2: Create folder structure
             |
             Run.bat
 Step 3:
-    Create LoginPage poage object
-    Create Login test under testcases foldre
+    Create LoginPage page object
+    Create Login test under testcases folder
     create conftest.py under testcases
 
 Step 4: 
@@ -62,3 +62,13 @@ Step 9: Automating Data Driven Test Case
     Run the test case
 
 Step 10: Adding new testcases
+    1)Add new customer
+    2)Search customer by email
+    3)Search customer by name
+
+Step 11)Grouping Tests
+    1)Grouping markers: Add markers to every test method
+    2)Sdd marker entries in pytest.ini file
+
+Step 12: Run tests in command prompt by bat file
+
